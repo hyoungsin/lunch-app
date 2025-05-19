@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/jabro-menu/static/css/main.2a980ea9.css",
-    "main.js": "/jabro-menu/static/js/main.25a3c6f6.js",
-    "static/js/453.877a7cd8.chunk.js": "/jabro-menu/static/js/453.877a7cd8.chunk.js",
-    "index.html": "/jabro-menu/index.html",
-    "main.2a980ea9.css.map": "/jabro-menu/static/css/main.2a980ea9.css.map",
-    "main.25a3c6f6.js.map": "/jabro-menu/static/js/main.25a3c6f6.js.map",
-    "453.877a7cd8.chunk.js.map": "/jabro-menu/static/js/453.877a7cd8.chunk.js.map"
+    "main.css": "/lunch-app/static/css/main.2a980ea9.css",
+    "main.js": "/lunch-app/static/js/main.e0a035df.js",
+    "static/js/453.877a7cd8.chunk.js": "/lunch-app/static/js/453.877a7cd8.chunk.js",
+    "index.html": "/lunch-app/index.html",
+    "main.2a980ea9.css.map": "/lunch-app/static/css/main.2a980ea9.css.map",
+    "main.e0a035df.js.map": "/lunch-app/static/js/main.e0a035df.js.map",
+    "453.877a7cd8.chunk.js.map": "/lunch-app/static/js/453.877a7cd8.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.2a980ea9.css",
-    "static/js/main.25a3c6f6.js"
+    "static/js/main.e0a035df.js"
   ]
 }
